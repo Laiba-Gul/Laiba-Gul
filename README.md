@@ -1,11 +1,14 @@
 # Hi, I'm Laiba Gul 👋
 
-Prompt Engineering intern at **Neurofive Solutions**, exploring how to get reliable, well-structured output from large language models. I also build with Python, C# and JavaScript.
+I work on machine learning research and large language models — from cleaning and analysing health data to designing prompts that get reliable, well-structured output from LLMs. I build mostly with Python and JavaScript.
+
+### 🔬 Research
+**Diabetes prediction (in progress, private repo):** exploratory data analysis and preprocessing of a health-indicators dataset for binary diabetes classification — class-imbalance analysis, Pearson & Spearman correlation studies, stratified 70/15/15 train/validation/test splits, feature scaling, and SMOTE-based oversampling.
 
 ### 🔧 Skills
+- **Machine learning & data:** pandas, NumPy, scikit-learn, imbalanced-learn, Matplotlib, Seaborn, Jupyter / Colab
 - **AI / LLMs:** prompt design, zero-shot & few-shot prompting, reusable prompt templates, ChatGPT · Claude · Gemini
-- **Python:** Jupyter / Colab, NLP basics, TextBlob, Hugging Face Transformers
-- **C# / .NET:** console applications, expressions & control flow
+- **NLP:** TextBlob, Hugging Face Transformers
 - **Web:** JavaScript, React, Gatsby, CSS Modules
 
 ### 📌 Featured projects
