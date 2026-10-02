@@ -1,11 +1,12 @@
 # Hi, I'm Laiba Gul 👋
 
-I work on machine learning research and large language models — from cleaning and analysing health data to designing prompts that get reliable, well-structured output from LLMs. I build mostly with Python and JavaScript.
+I work on machine learning research and ML engineering — from cleaning and analysing health data, to turning models into tested, containerised APIs, to designing prompts that get reliable output from LLMs. I build mostly with Python and JavaScript.
 
 ### 🔬 Research
 **Diabetes prediction (in progress, private repo):** exploratory data analysis and preprocessing of a health-indicators dataset for binary diabetes classification — class-imbalance analysis, Pearson & Spearman correlation studies, stratified 70/15/15 train/validation/test splits, feature scaling, and SMOTE-based oversampling.
 
 ### 🔧 Skills
+- **ML engineering:** FastAPI, Pydantic, Docker, pytest, GitHub Actions CI
 - **Machine learning & data:** pandas, NumPy, scikit-learn, imbalanced-learn, Matplotlib, Seaborn, Jupyter / Colab
 - **AI / LLMs:** prompt design, zero-shot & few-shot prompting, reusable prompt templates, ChatGPT · Claude · Gemini
 - **NLP:** TextBlob, Hugging Face Transformers
@@ -14,6 +15,7 @@ I work on machine learning research and large language models — from cleaning 
 ### 📌 Featured projects
 | Project | What it is |
 |---|---|
+| [diabetes-ml-api](https://github.com/Laiba-Gul/diabetes-ml-api) | End-to-end ML engineering project: a scikit-learn diabetes prediction pipeline served as a validated FastAPI REST API, with privacy-safe logging, 33 pytest tests, a multi-stage Docker image and GitHub Actions CI |
 | [prompt-library-v1](https://github.com/Laiba-Gul/prompt-library-v1) | A reusable Role-Context-Task-Format-Constraints prompt template for customer-support replies, applied to 5 scenarios |
 | [week1-prompt-engineering](https://github.com/Laiba-Gul/week1-prompt-engineering) | Zero-shot vs few-shot prompting compared across ChatGPT, Claude and Gemini |
 | [python-beginner-practice](https://github.com/Laiba-Gul/python-beginner-practice) | Python fundamentals plus an AI chatbot & sentiment analyzer (TextBlob → Transformers) |
